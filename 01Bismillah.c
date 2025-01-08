@@ -12,6 +12,12 @@ int main () {
 
     printf("Assalamu Alaikum ..\n");
 
+    printf("Hello World ! \n");
+
+    printf("Hello 2025 ! \n");
+
+    printf("Hello Universe ! \n");
+
     return  0;
 
 }
